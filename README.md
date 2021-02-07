@@ -3,6 +3,8 @@ Simple JS inject script that displays an Uncle Iroh quote whenever you google se
 
 "It is usually best to admit mistakes when they occur, and to seek to restore honor.",
 
+![Alt text](cssbad.jpg?raw=true "Title")
+
 Thanks to usr Prezadito for the list of quotes.
 
 
